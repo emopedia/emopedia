@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning Java and C#
-- 📫 How to reach me: You can reach me by sending me a DM on Discord (emo-chan#3515)
+- 📫 How to reach me: You can reach me by sending me a DM on Discord (emopedia#0001)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I cannot swim.
 
