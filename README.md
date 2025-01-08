@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/emopedia/emopedia/emopedia.png)
+![Banner](https://raw.githubusercontent.com/emopedia/emopedia/master/emopedia.png)
 
 ## Hey there! 👋
 I'm **emopedia**, a web enthusiast from New Zealand! 🌏 I'm passionate about designing and building websites using **HTML** and **CSS**, and I'm currently learning more programming languages beyond **JavaScript**. I'm always experimenting and pushing myself to learn more.
