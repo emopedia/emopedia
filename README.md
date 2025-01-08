@@ -9,7 +9,7 @@ For my programming projects, I usually only upload to GitHub once I make signifi
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=emopedia&show_icons=true&locale=en&theme=dracula" alt="emopedia" /></p>
 
-<p><img align="center" height="180em" src="https://streak-stats.demolab.com/?user=emopedia&theme=dracula" alt="emopedia" /></p>
+<p><img align="center" height="180em" src="https://streak-stats.demolab.com/?user=emopedia&theme=darcula" alt="emopedia" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
