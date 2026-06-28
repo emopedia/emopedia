@@ -1,21 +1,13 @@
-![Banner](https://raw.githubusercontent.com/emopedia/emopedia/master/emopedia.png)
+## Hey there!
+I'm **emopedia**, a Minecraft Plugin developer from New Zealand! I've been coding in Java since around 2020 and currently developing my own Minecraft Network, [Mineflare](https://github.com/MineflareGG)
 
-## Hey there! 👋
-I'm **emopedia**, a web enthusiast from New Zealand! 🌏 I'm passionate about designing and building websites using **HTML** and **CSS**, and I'm currently learning more programming languages beyond **JavaScript**. I'm always experimenting and pushing myself to learn more.
+I am also a web developer with extensive experience using many JS frameworks.
 
-### 🌱 What I'm Learning
-I'm diving deeper into various programming languages to expand my coding skills. My main focus is web development, but I'm excited about learning new things as I go.
-
-### 🛠️ Technologies & Tools
-- **Web Development**: HTML, CSS, JavaScript
-- **Currently Exploring**: Other programming languages and frameworks
-
-### 👨‍💻 Projects & Contributions
-I upload to GitHub once I make significant progress on a project, especially for code-related work. For markdown files and smaller updates, I commit more frequently. Feel free to check out my repositories and contribute by creating pull requests! I'd love to collaborate and learn from others.
+Most of my projects are private, however I do believe in OSS which I am striving to do more of.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emopedia&layout=compact&theme=dracula" alt="Top Languages" />
@@ -24,7 +16,7 @@ I upload to GitHub once I make significant progress on a project, especially for
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-<h3 align="center">✨ Profile Summary</h3>
+<h3 align="center">Profile Summary</h3>
 <div align="center">
   <a href="https://github.com/emopedia">
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emopedia&theme=dracula" alt="Profile Details" />
@@ -37,9 +29,5 @@ I upload to GitHub once I make significant progress on a project, especially for
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-### 📫 How to Reach Me
+## How to Reach Me
 If you have any questions, want to help on a project, or any other reason. you can DM me on Discord (@emopedia)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-
-⭐️ From [emopedia](https://github.com/emopedia)
