@@ -7,15 +7,6 @@ Most of my projects are private, however I do believe in OSS which I am striving
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emopedia&layout=compact&theme=dracula" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emopedia&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-
 <h3 align="center">Profile Summary</h3>
 <div align="center">
   <a href="https://github.com/emopedia">
